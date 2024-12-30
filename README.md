@@ -1,3 +1,4 @@
+### Take a look at the details of our project for a very enjoyable experience 
 # planets_app 🌌
 A Flutter application designed to help users explore the universe by providing detailed information and interactive 3D models of planets. This app makes learning about our solar system an engaging and exciting experience.
 
@@ -31,9 +32,9 @@ Prerequisites
 plaintext  
 Copy code  
 .
-├── lib/  
-│   ├── models/           &nbsp  # Contains data models (e.g., Planet model   
-│   ├── screens/          &nbsp  # UI screens (e.g., home, details screen)  
+ ├── lib/  
+│   ├── models/             # Contains data models (e.g., Planet model   
+│   ├── screens/            # UI screens (e.g., home, details screen)  
 │   ├── widgets/            # Reusable Flutter widgets  
 │   └── main.dart           # Entry point of the application  
 ├── assets/                 # Contains images and 3D models  
