@@ -14,7 +14,14 @@ A Flutter application designed to help users explore the universe by providing d
 - A convenient and fun way to learn about the universe.
 
 ### 🛠️ Packages Used
-The project leverages the following Flutter packages to enhance functionality:
+The project leverages the following Flutter packages to enhance functionality:  
+flutter_3d_controller: For rendering interactive 3D planet models.  
+flutter_native_splash: To implement customized splash screens.  
+google_fonts: For attractive typography and a modern design aesthetic.  
+path_provider: For accessing filesystem paths in the app.  
+
+
+
 
 flutter_3d_controller: For rendering interactive 3D planet models.
 flutter_native_splash: To implement customized splash screens.
