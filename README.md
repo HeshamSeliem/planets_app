@@ -27,13 +27,13 @@ Prerequisites
 - Android Studio or Visual Studio Code (or any preferred IDE)  
 - Git  
 
-- 📂 Project Structure  
+## - 📂 Project Structure  
 plaintext  
 Copy code  
 .
 ├── lib/  
-│   ├── models/             # Contains data models (e.g., Planet model   
-│   ├── screens/            # UI screens (e.g., home, details screen)  
+│   ├── models/           &nbsp  # Contains data models (e.g., Planet model   
+│   ├── screens/          &nbsp  # UI screens (e.g., home, details screen)  
 │   ├── widgets/            # Reusable Flutter widgets  
 │   └── main.dart           # Entry point of the application  
 ├── assets/                 # Contains images and 3D models  
