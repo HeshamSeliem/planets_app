@@ -32,13 +32,13 @@ plaintext
 Copy code  
 .
 ├── lib/  
-│   ├── models/         # Contains data models (e.g., Planet model   
-│   ├── screens/        # UI screens (e.g., home, details screen)  
-│   ├── widgets/        # Reusable Flutter widgets  
-│   └── main.dart       # Entry point of the application  
-├── assets/             # Contains images and 3D models  
-├── pubspec.yaml        # Project dependencies and assets configuration  
-└── README.md           # Project documentation  
+│   ├── models/             # Contains data models (e.g., Planet model   
+│   ├── screens/            # UI screens (e.g., home, details screen)  
+│   ├── widgets/            # Reusable Flutter widgets  
+│   └── main.dart           # Entry point of the application  
+├── assets/                 # Contains images and 3D models  
+├── pubspec.yaml            # Project dependencies and assets configuration  
+└── README.md               # Project documentation  
 
 
 
